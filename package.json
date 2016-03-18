@@ -18,7 +18,8 @@
     "build": "npm test && npm run toJSON",
     "prepublish": "npm run build",
     "lint": "standard index.js scripts/*.js",
-    "postinstall": "rimraf .jshintrc  && rimraf .jshintignore"
+    "postinstall": "rimraf .jshintrc  && rimraf .jshintignore",
+    "validate": "npm ls"
   },
   "pre-commit": [
     "lint"
