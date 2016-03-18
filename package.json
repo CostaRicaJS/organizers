@@ -4,7 +4,8 @@
   "description": "Data of Costa Rica JS Organizers",
   "main": "index.js",
   "dependencies": {
-    "gaboesquivel": "^1.0.0"
+    "gaboesquivel": "^1.0.0",
+    "laubits": "^1.0.0"
   },
   "devDependencies": {
     "standard": "^6.0.8",

@@ -1,5 +1,6 @@
 const organizers = {
-  gaboesquivel: require('gaboesquivel')
+  gaboesquivel: require('gaboesquivel'),
+  laubits: require('laubits')
 }
 
 module.exports = organizers
