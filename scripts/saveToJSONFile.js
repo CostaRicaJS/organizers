@@ -3,7 +3,7 @@ const jsonfile = require('jsonfile')
 
 const file = 'organizers-data.json'
 
-jsonfile.writeFile(file, organizers, {spaces: 2}, function (err) {
+jsonfile.writeFile(file, organizers, {spaces: 2}, (err) => {
   if (err) {
     console.error(err)
   }
