@@ -1,4 +1,4 @@
-var organizers = {
+const organizers = {
   gaboesquivel: require('gaboesquivel')
 }
 

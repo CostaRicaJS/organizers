@@ -1,7 +1,7 @@
-var organizers = require('../index.js')
-var jsonfile = require('jsonfile')
+const organizers = require('../index.js')
+const jsonfile = require('jsonfile')
 
-var file = 'organizers-data.json'
+const file = 'organizers-data.json'
 
 jsonfile.writeFile(file, organizers, {spaces: 2}, function (err) {
   if (err) {
