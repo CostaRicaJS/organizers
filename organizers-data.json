@@ -25,5 +25,15 @@
     "twitter": "brolag",
     "github": "brolag",
     "linkedin": "brolag"
+  },
+  "kevinblanco" : { 
+    "name": "Kevin Blanco",
+    "bio": "JavaScript Enthusiast, Drupal Activist and Entrepreneur",
+    "website": "http://kevinblanco.io",
+    "email": "mail@kevinblanco.io",
+    "twitter": "KevinBlancoZ",
+    "github": "kevinblanco",
+    "linkedin": "kevinblanco"
   }
+
 }
