@@ -6,6 +6,7 @@ const file = 'organizers-data.json'
 jsonfile.writeFile(file, organizers, {spaces: 2}, (err) => {
   if (err) {
     console.error(err)
+    return
   }
-  console.log(JSON.stringify(organizers, null, 2))
+  console.dir(jsonfile.readFileSync(file))
 })
