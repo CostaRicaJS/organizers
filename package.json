@@ -6,7 +6,8 @@
   "dependencies": {
     "gaboesquivel": "^1.0.0",
     "laubits": "^1.0.0",
-    "brolag": "^1.0.0"
+    "brolag": "^1.0.0",
+    "kevinblanco": "^1.0.0"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
