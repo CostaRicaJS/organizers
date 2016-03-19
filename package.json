@@ -7,7 +7,8 @@
     "brolag": "^1.0.0",
     "gaboesquivel": "^1.0.0",
     "laubits": "^1.0.0",
-    "stevenperez": "^1.0.2"
+    "stevenperez": "^1.0.2",
+    "kevinblanco": "^1.0.0"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
