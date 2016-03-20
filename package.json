@@ -4,9 +4,10 @@
   "description": "Data of Costa Rica JS Organizers",
   "main": "index.js",
   "dependencies": {
+    "brolag": "^1.0.0",
     "gaboesquivel": "^1.0.0",
     "laubits": "^1.0.0",
-    "brolag": "^1.0.0"
+    "stevenperez": "^1.0.2"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
