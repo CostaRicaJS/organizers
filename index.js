@@ -4,7 +4,8 @@ const organizers = {
   brolag: require('brolag'),
   stevenperez: require('stevenperez'),
   kevinblanco: require('kevinblanco'),
-  laurensortiz: require('laurensortiz')
+  laurensortiz: require('laurensortiz'),
+  yeco: require('yeco')
 }
 
 module.exports = organizers
