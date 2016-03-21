@@ -1,57 +1,66 @@
 {
-  "gaboesquivel": {
-    "name": "Gabo Esquivel",
-    "bio": "Software Developer and Consultant. Organizer of @costaricajs and @devopscr. #JavaScript, #devOps, #product",
-    "website": "http://gaboesquivel.com",
-    "email": "contact@gaboesquivel.com",
-    "twitter": "gaboesquivel",
-    "github": "gaboesquivel",
-    "linkedin": "gaboesquivel"
-  },
-  "laubits": {
-    "name": "Laura Castillo",
-    "bio": "Software Developer",
-    "website": "http://laubits.com",
-    "email": "contact@laubits.com",
-    "twitter": "laubits",
-    "github": "laubits",
-    "linkedin": "laubits"
-  },
-  "brolag": {
-    "name": "Alfredo Bonilla",
-    "bio": "Full Stack Web Developer. Member of @costaricajs and @drupalcr. Bass player with @zeptosegundo. #JavaScript #Drupal",
-    "website": "http://brolag.com",
-    "email": "josebonillav@gmail.com",
-    "twitter": "brolag",
-    "github": "brolag",
-    "linkedin": "brolag"
-  },
-  "stevenperez": {
-    "name": "Steven Pérez",
-    "bio": "Full Stack Web Developer. Member of @costaricajs. #JavaScript #NodeJS",
-    "website": "http://www.stevengpa.com/",
-    "email": "steven.gpa@gmail.com",
-    "twitter": "steven__pa",
-    "github": "stevenperez",
-    "linkedin": "stevengpa",
-    "youtube": "https://www.youtube.com/results?search_query=UC2H6N4NTWdOy3Hfc79_8e"
-  },
-  "kevinblanco": {
-    "name": "Kevin Blanco",
-    "bio": "JavaScript Enthusiast, Drupal Activist and Entrepreneur",
-    "website": "http://kevinblanco.io",
-    "email": "mail@kevinblanco.io",
-    "twitter": "KevinBlancoZ",
-    "github": "kevinblanco",
-    "linkedin": "kevinblanco"
-  },
-  "laurensortiz": {
-    "name": "Laurens OB",
-    "bio": "Full Stack Developer. JS lover - Founder of @lobcode.",
-    "website": "http://lobcode.com",
-    "email": "laurens.ortiz@gmail.com",
-    "twitter": "laurensortiz",
-    "github": "laurensortiz",
-    "linkedin": "laurensortiz"
-  }
+    "gaboesquivel": {
+        "name": "Gabo Esquivel",
+        "bio": "Software Developer and Consultant. Organizer of @costaricajs and @devopscr. #JavaScript, #devOps, #product",
+        "website": "http://gaboesquivel.com",
+        "email": "contact@gaboesquivel.com",
+        "twitter": "gaboesquivel",
+        "github": "gaboesquivel",
+        "linkedin": "gaboesquivel"
+    },
+    "laubits": {
+        "name": "Laura Castillo",
+        "bio": "Software Developer",
+        "website": "http://laubits.com",
+        "email": "contact@laubits.com",
+        "twitter": "laubits",
+        "github": "laubits",
+        "linkedin": "laubits"
+    },
+    "brolag": {
+        "name": "Alfredo Bonilla",
+        "bio": "Full Stack Web Developer. Member of @costaricajs and @drupalcr. Bass player with @zeptosegundo. #JavaScript #Drupal",
+        "website": "http://brolag.com",
+        "email": "josebonillav@gmail.com",
+        "twitter": "brolag",
+        "github": "brolag",
+        "linkedin": "brolag"
+    },
+    "stevenperez": {
+        "name": "Steven Pérez",
+        "bio": "Full Stack Web Developer. Member of @costaricajs. #JavaScript #NodeJS",
+        "website": "http://www.stevengpa.com/",
+        "email": "steven.gpa@gmail.com",
+        "twitter": "steven__pa",
+        "github": "stevenperez",
+        "linkedin": "stevengpa",
+        "youtube": "https://www.youtube.com/results?search_query=UC2H6N4NTWdOy3Hfc79_8e"
+    },
+    "kevinblanco": {
+        "name": "Kevin Blanco",
+        "bio": "JavaScript Enthusiast, Drupal Activist and Entrepreneur",
+        "website": "http://kevinblanco.io",
+        "email": "mail@kevinblanco.io",
+        "twitter": "KevinBlancoZ",
+        "github": "kevinblanco",
+        "linkedin": "kevinblanco"
+    },
+    "laurensortiz": {
+        "name": "Laurens OB",
+        "bio": "Full Stack Developer. JS lover - Founder of @lobcode.",
+        "website": "http://lobcode.com",
+        "email": "laurens.ortiz@gmail.com",
+        "twitter": "laurensortiz",
+        "github": "laurensortiz",
+        "linkedin": "laurensortiz"
+    },
+    "yeco": {
+        "name": "Jasson Cascante",
+        "bio": "Software Architect. Co-founder of Edify.",
+        "website": "http://edify.cr",
+        "email": "jasson.cascante@edify.cr",
+        "twitter": "yeco",
+        "github": "yeco",
+        "linkedin": "whoisyeco?"
+    }
 }
