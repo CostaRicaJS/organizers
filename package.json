@@ -8,7 +8,8 @@
     "gaboesquivel": "^1.0.0",
     "laubits": "^1.0.0",
     "stevenperez": "^1.0.2",
-    "kevinblanco": "^1.0.0"
+    "kevinblanco": "^1.0.0",
+    "laurensortiz": "^1.0.2"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
