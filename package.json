@@ -10,7 +10,7 @@
         "stevenperez": "^1.0.2",
         "kevinblanco": "^1.0.0",
         "laurensortiz": "^1.0.2",
-        "yeco": "^1.0.2"
+        "yeco": "^1.0.0"
     },
     "devDependencies": {
         "doctoc": "^1.0.0",
