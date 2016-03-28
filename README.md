@@ -8,7 +8,7 @@ Data of Costa Rica JS Organizers
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-  - [Commands](#commands)
+- [Commands](#commands)
 - [Costa Rica JS](#costa-rica-js)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -18,7 +18,7 @@ Data of Costa Rica JS Organizers
 `npm run toJSON`  generates organizers-data.json file  
 `npm run build`   lints the code and updates the organizers-data.json file
 
-## Costa Rica JS
+### Costa Rica JS
 
 Blog: http://costaricajs.co   
 Meetup: http://meetup.com/costaricajs   
