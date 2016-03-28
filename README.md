@@ -8,7 +8,8 @@ Data of Costa Rica JS Organizers
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
-- [Commands](#commands)
+  - [Commands](#commands)
+- [Costa Rica JS](#costa-rica-js)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
