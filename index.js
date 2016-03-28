@@ -6,7 +6,8 @@ const organizers = {
   stevenperez: require('stevenperez'),
   kevinblanco: require('kevinblanco'),
   laurensortiz: require('laurensortiz'),
-  josoroma: require('josoroma')
+  josoroma: require('josoroma'),
+  jarias: require('jarias')
 }
 
 module.exports = organizers
