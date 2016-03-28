@@ -1,50 +1,51 @@
 {
-    "name": "costaricajs-organizers",
-    "version": "1.0.0",
-    "description": "Data of Costa Rica JS Organizers",
-    "main": "index.js",
-    "dependencies": {
-        "brolag": "^1.0.0",
-        "gaboesquivel": "^1.0.0",
-        "laubits": "^1.0.0",
-        "stevenperez": "^1.0.2",
-        "kevinblanco": "^1.0.0",
-        "laurensortiz": "^1.0.2",
-        "yeco": "^1.0.0",
-        "josoroma": "^1.0.0",
-        "jarias": "^1.0.0"
-    },
-    "devDependencies": {
-        "doctoc": "^1.0.0",
-        "jsonfile": "^2.2.3",
-        "precommit-hook": "^3.0.0",
-        "rimraf": "^2.5.2",
-        "standard": "^6.0.8"
-    },
-    "scripts": {
-        "test": "npm run lint",
-        "toJSON": "node scripts/saveToJSONFile",
-        "build": "npm run build:doc && npm test && npm run toJSON",
-        "build:doc": "doctoc --github --title \"## Contents\" ./",
-        "prepublish": "npm run build",
-        "lint": "standard index.js scripts/*.js",
-        "postinstall": "rimraf .jshintrc  && rimraf .jshintignore",
-        "validate": "npm ls"
-    },
-    "pre-commit": [
-        "lint"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/CostaRicaJS/organizers.git"
-    },
-    "keywords": [
-        "costaricajs"
-    ],
-    "author": "Gabo Esquivel <contact@gaboesquivel.com> (http://gaboesquivel.com/)",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/CostaRicaJS/organizers/issues"
-    },
-    "homepage": "https://github.com/CostaRicaJS/organizers#readme"
+  "name": "costaricajs-organizers",
+  "version": "1.0.0",
+  "description": "Data of Costa Rica JS Organizers",
+  "main": "index.js",
+  "dependencies": {
+    "brolag": "^1.0.0",
+    "gaboesquivel": "^1.0.0",
+    "jarias": "^1.0.0",
+    "josoroma": "^1.0.0",
+    "kevinblanco": "^1.0.0",
+    "laubits": "^1.0.0",
+    "laurensortiz": "^1.0.2",
+    "rubenabix": "^1.0.2",
+    "stevenperez": "^1.0.2",
+    "yeco": "^1.0.0"
+  },
+  "devDependencies": {
+    "doctoc": "^1.0.0",
+    "jsonfile": "^2.2.3",
+    "precommit-hook": "^3.0.0",
+    "rimraf": "^2.5.2",
+    "standard": "^6.0.8"
+  },
+  "scripts": {
+    "test": "npm run lint",
+    "toJSON": "node scripts/saveToJSONFile",
+    "build": "npm run build:doc && npm test && npm run toJSON",
+    "build:doc": "doctoc --github --title \"## Contents\" ./",
+    "prepublish": "npm run build",
+    "lint": "standard index.js scripts/*.js",
+    "postinstall": "rimraf .jshintrc  && rimraf .jshintignore",
+    "validate": "npm ls"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CostaRicaJS/organizers.git"
+  },
+  "keywords": [
+    "costaricajs"
+  ],
+  "author": "Gabo Esquivel <contact@gaboesquivel.com> (http://gaboesquivel.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CostaRicaJS/organizers/issues"
+  },
+  "homepage": "https://github.com/CostaRicaJS/organizers#readme"
 }

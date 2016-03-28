@@ -79,5 +79,14 @@
     "email": "julio.arias@edify.cr",
     "twitter": "jarias",
     "github": "jarias"
+  },
+  "rubenabix": {
+    "name": "Rubén Abarca Navarro",
+    "bio": "Full Stack Web Developer.",
+    "website": "https://www.rubenabix.com/",
+    "email": "rubenabix@gmail.com",
+    "twitter": "rubenabix",
+    "github": "rubenabix",
+    "linkedin": "https://cr.linkedin.com/in/rubenabix"
   }
 }
