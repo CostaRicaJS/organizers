@@ -11,7 +11,8 @@
         "kevinblanco": "^1.0.0",
         "laurensortiz": "^1.0.2",
         "yeco": "^1.0.0",
-        "josoroma": "^1.0.0"
+        "josoroma": "^1.0.0",
+        "jarias": "^1.0.0"
     },
     "devDependencies": {
         "doctoc": "^1.0.0",
