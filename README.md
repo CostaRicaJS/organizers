@@ -14,5 +14,5 @@ Data of Costa Rica JS Organizers
 
 ### Commands
 
-`npm run toJSON`  generates organizers-data.json file
+`npm run toJSON`  generates organizers-data.json file  
 `npm run build`   lints the code and updates the organizers-data.json file
