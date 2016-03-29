@@ -6,7 +6,6 @@ const organizers = {
   stevenperez: require('stevenperez'),
   kevinblanco: require('kevinblanco'),
   laurensortiz: require('laurensortiz'),
-  josoroma: require('josoroma'),
   jarias: require('jarias'),
   rubenabix: require('rubenabix'),
   cayasso: require('cayasso')
