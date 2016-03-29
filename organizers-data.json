@@ -88,5 +88,14 @@
     "twitter": "cayasso",
     "github": "cayasso",
     "linkedin": "https://www.linkedin.com/in/jbrumley"
+  },
+  "avenidanet": {
+    "name": "Brian Salazar",
+    "bio": "Developer. Founder La404 & Co-founder Minerva",
+    "website": "http://la404.com",
+    "email": "brian@la404.com",
+    "twitter": "avenidanet",
+    "github": "avenidanet",
+    "linkedin": "avenidanet"
   }
 }

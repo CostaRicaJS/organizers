@@ -8,7 +8,8 @@ const organizers = {
   laurensortiz: require('laurensortiz'),
   jarias: require('jarias'),
   rubenabix: require('rubenabix'),
-  cayasso: require('cayasso')
+  cayasso: require('cayasso'),
+  avenidanet: require('avenidanet')
 }
 
 module.exports = organizers
