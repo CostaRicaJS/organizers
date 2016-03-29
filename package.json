@@ -13,7 +13,8 @@
     "laurensortiz": "^1.0.2",
     "rubenabix": "^1.0.2",
     "stevenperez": "^1.0.2",
-    "yeco": "^1.0.0"
+    "yeco": "^1.0.0",
+    "cayasso": "^1.0.0"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",
