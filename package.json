@@ -4,17 +4,17 @@
   "description": "Data of Costa Rica JS Organizers",
   "main": "index.js",
   "dependencies": {
+    "avenidanet": "^1.0.0",
     "brolag": "^1.0.0",
-    "gaboesquivel": "^1.0.0",
+    "cayasso": "^1.0.0",
+    "gaboesquivel": "^1.0.2",
     "jarias": "^1.0.1",
     "kevinblanco": "^1.0.0",
     "laubits": "^1.0.0",
     "laurensortiz": "^1.0.2",
     "rubenabix": "^1.0.2",
     "stevenperez": "^1.0.2",
-    "yeco": "^1.0.0",
-    "cayasso": "^1.0.0",
-    "avenidanet": "^1.0.0"
+    "yeco": "^1.0.0"
   },
   "devDependencies": {
     "doctoc": "^1.0.0",

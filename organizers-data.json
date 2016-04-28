@@ -1,12 +1,13 @@
 {
   "gaboesquivel": {
     "name": "Gabo Esquivel",
-    "bio": "Software Developer and Consultant. Organizer of @costaricajs and @devopscr. #JavaScript, #devOps, #product",
+    "bio": "Software Developer and Consultant. Community leader and open source contributor. Organizer of tech meetups and NodeSchool mentor.",
     "website": "http://gaboesquivel.com",
     "email": "contact@gaboesquivel.com",
     "twitter": "gaboesquivel",
     "github": "gaboesquivel",
-    "linkedin": "gaboesquivel"
+    "linkedin": "gaboesquivel",
+    "ama": "https://github.com/gaboesquivel/ama"
   },
   "yeco": {
     "name": "Jasson Cascante",
