@@ -75,7 +75,7 @@
   "rubenabix": {
     "name": "Rubén Abarca Navarro",
     "bio": "Full Stack Web Developer.",
-    "website": "https://www.rubenabix.com/",
+    "website": "http://rubenabix.com",
     "email": "rubenabix@gmail.com",
     "twitter": "rubenabix",
     "github": "rubenabix",
@@ -98,5 +98,14 @@
     "twitter": "avenidanet",
     "github": "avenidanet",
     "linkedin": "avenidanet"
+  },
+  "msolano00": {
+    "name": "Marvin Solano",
+    "bio": "Web Developer",
+    "website": "http://marvinsolano.io",
+    "email": "msolano00@gmail.com.com",
+    "twitter": "msolano00",
+    "github": "msolano00",
+    "linkedin": "marvinsolano"
   }
 }
