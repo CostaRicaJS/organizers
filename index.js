@@ -9,7 +9,8 @@ const organizers = {
   jarias: require('jarias'),
   rubenabix: require('rubenabix'),
   cayasso: require('cayasso'),
-  avenidanet: require('avenidanet')
+  avenidanet: require('avenidanet'),
+  msolano00: require('msolano00')
 }
 
 module.exports = organizers
